@@ -1,4 +1,4 @@
-Este ensaio possiu 3 módulos complementares:
+Este ensaio possiu 4 módulos complementares:
 
 1 - scrapping.py
 
@@ -15,3 +15,7 @@ Sua função é de ir em um vídeo específico do canal e buscar todos os comet�
 3 - comentQuant
 
 Sua função é transformar os dados temporais de comentários em dados quatitativos
+
+4 - MAP
+
+Apenas um protótipo de site que demostra como o vídeos podem ser visualizados
